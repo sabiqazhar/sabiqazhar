@@ -19,7 +19,10 @@ const sabiq = {
         backEnd: {
             js: ["node"],
             python: ["flask"]
-        }        
+        },
+        versionControl: {
+            git:["github"]
+        }
     }
 };
 ```
