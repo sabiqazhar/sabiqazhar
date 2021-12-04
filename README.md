@@ -21,7 +21,7 @@ const sabiq = {
             python: ["flask"]
         },
         versionControl: {
-            git:["github"]
+            git: ["github"]
         }
     }
 };
