@@ -14,11 +14,13 @@ const sabiq = {
     askMeAbout: ["web dev", "tech", "philosophy", "book", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap"]
+            css: ["bootstrap"],
+            js: ["vue"]
         },
         backEnd: {
             js: ["node"],
-            python: ["flask"]
+            python: ["django"],
+            php: ["laravel"]
         },
         versionControl: {
             git: ["github"]
