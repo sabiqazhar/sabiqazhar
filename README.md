@@ -16,7 +16,7 @@ const sabiq = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node"]
+            js: ["node"],
             python: ["flask"]
         },
         versionControl: {
