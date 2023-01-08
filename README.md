@@ -10,19 +10,22 @@
 const sabiq = {
     pronouns: "he" | "him",
     code: [Javascript, Python, HTML, CSS],
-    askMeAbout: ["web dev", "tech", "philosophy", "book", "music", "coffee"],
+    askMeAbout: ["web dev", "tech", "backend", "philosophy", "book", "music"],
     technologies: {
         frontEnd: {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node"],
+            js: ["node", "express],
             python: ["flask"]
         },
         versionControl: {
             git: ["github"]
+        },
+        dataBase: {
+            SQL: ["PostgreSQL"],
+            noSQL: ["mongooDB"]
         }
-    }
 };
 ```
 
