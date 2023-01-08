@@ -23,7 +23,7 @@ const sabiq = {
             git: ["github"]
         },
         dataBase: {
-            SQL: ["PostgreSQL"],
+            SQL: ["postgreSQL", "SQLite],
             noSQL: ["mongooDB"]
         }
 };
