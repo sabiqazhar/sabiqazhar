@@ -25,6 +25,9 @@ const sabiq = {
         dataBase: {
             SQL: ["postgreSQL", "SQLite"],
             noSQL: ["mongooDB"]
+        },
+        devOps: {
+            containerization: ["docker"]
         }
 };
 ```
