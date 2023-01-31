@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub! I'm Sabiq Azhar, Web developer
+## Hi there 👋 Welcome to my GitHub! I'm Sabiq Azhar, Software Engineer
 
 [![Linkedin: sabiqazhar](https://img.shields.io/badge/-sabiq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sabiq-azhar-prayoga-58b1a8191/)](https://www.linkedin.com/in/sabiq-azhar-prayoga-58b1a8191/)
 ![](https://visitor-badge.glitch.me/badge?page_id=sabiqazhat.sabiqazhar)
