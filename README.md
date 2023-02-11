@@ -8,7 +8,7 @@
 ```javascript
 const sabiq = {
     pronouns: "he" | "him",
-    code: [Javascript, Python, HTML, CSS],
+    code: [Javascript, Python],
     askMeAbout: ["web dev", "tech", "backend", "philosophy", "book", "music"],
     technologies: {
         frontEnd: {
