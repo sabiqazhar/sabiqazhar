@@ -17,6 +17,7 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## 📝 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Handle Race Condition Dengan Locking Database](https://medium.com/@sabiqaz/handle-race-condition-dengan-locking-database-e5cc3a14afbb?source=rss-50a262d98885------2)
 - [Race Condition, Mau update aja kok rebutan.](https://medium.com/@sabiqaz/race-condition-mau-update-aja-kok-rebutan-d903b3b23619?source=rss-50a262d98885------2)
 <!-- BLOG-POST-LIST:END -->
 
