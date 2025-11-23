@@ -1,23 +1,34 @@
-name: Update Medium Articles
+name: Update Blog Posts in README
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:  # Bisa dijalankan manual kapan saja
   schedule:
-    # Jalan tiap 6 jam
-    - cron: '0 */6 * * *'
+    # Jalan tiap Senin jam 09.00 UTC (sesuaikan kalau mau jam lain)
+    - cron: '0 9 * * 1'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Izin untuk push ke repo
     steps:
       - uses: actions/checkout@v4
 
       - name: Update README with latest Medium posts
-        uses: pahlevikun/Github-Read-Medium@main
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # Ganti dengan username Medium-mu (bagian di URL: medium.com/@sabiqaz)
-          medium_username: sabiqaz
-          # Opsional: jumlah artikel (default 3)
-          max_articles: 5
-          # Token biar bisa commit
-          token: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://medium.com/feed/@sabiqaz"
+          max_post_count: "5"
+          disable_html_encoding: "true"
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update latest Medium articles"
+            git push
+          else
+            echo "No changes to commit"
+          fi
