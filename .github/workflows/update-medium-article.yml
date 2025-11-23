@@ -1,0 +1,23 @@
+name: Update Medium Articles
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Jalan tiap 6 jam
+    - cron: '0 */6 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest Medium posts
+        uses: pahlevikun/Github-Read-Medium@main
+        with:
+          # Ganti dengan username Medium-mu (bagian di URL: medium.com/@sabiqaz)
+          medium_username: sabiqaz
+          # Opsional: jumlah artikel (default 3)
+          max_articles: 5
+          # Token biar bisa commit
+          token: ${{ secrets.GITHUB_TOKEN }}
