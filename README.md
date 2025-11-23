@@ -14,9 +14,14 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 
 ---
 
+## 📝 Latest Medium Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
 ## 🔗 Connect with Me
 
 Feel free to connect or check out my work!
 
 * **LinkedIn:** [sabiqazhar](https://linkedin.com/in/sabiqazhar)
-* **Medium:** [@sabiqaz](https://medium.com/@sabiqaz)
