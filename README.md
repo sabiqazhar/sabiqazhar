@@ -9,6 +9,9 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 
 ## ⚡ Recent GitHub Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 ## 🔗 Connect with Me
