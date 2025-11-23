@@ -17,6 +17,7 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## 📝 Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Race Condition, Mau update aja kok rebutan.](https://medium.com/@sabiqaz/race-condition-mau-update-aja-kok-rebutan-d903b3b23619?source=rss-50a262d98885------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
