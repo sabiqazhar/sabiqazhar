@@ -10,6 +10,9 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/sabiqazhar/superteam-academy/pull/1) in [sabiqazhar/superteam-academy](https://github.com/sabiqazhar/superteam-academy)
+2. ℹ️ Assigned PR [#1](https://github.com/sabiqazhar/superteam-academy/pull/1) in [sabiqazhar/superteam-academy](https://github.com/sabiqazhar/superteam-academy)
+3. 💪 Opened PR [#1](https://github.com/sabiqazhar/superteam-academy/pull/1) in [sabiqazhar/superteam-academy](https://github.com/sabiqazhar/superteam-academy)
 <!--END_SECTION:activity-->
 
 ---
