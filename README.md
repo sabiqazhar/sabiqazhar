@@ -10,9 +10,9 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/sabiqazhar/superteam-academy/pull/4) in [sabiqazhar/superteam-academy](https://github.com/sabiqazhar/superteam-academy)
-2. 💪 Opened PR [#4](https://github.com/sabiqazhar/superteam-academy/pull/4) in [sabiqazhar/superteam-academy](https://github.com/sabiqazhar/superteam-academy)
-3. ❌ Closed PR [#24](https://github.com/solanabr/superteam-academy/pull/24) in [solanabr/superteam-academy](https://github.com/solanabr/superteam-academy)
+1. 🚀 Published release [v1.0.0](https://github.com/sabiqazhar/tailtime.nvim/releases/tag/v1.0.0) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
+2. 🎉 Merged PR [#6](https://github.com/sabiqazhar/tailtime.nvim/pull/6) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
+3. 💪 Opened PR [#6](https://github.com/sabiqazhar/tailtime.nvim/pull/6) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
 <!--END_SECTION:activity-->
 
 ---
