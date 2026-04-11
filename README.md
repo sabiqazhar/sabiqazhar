@@ -10,9 +10,9 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/sabiqazhar/tailtime.nvim/releases/tag/v1.0.0) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
-2. 🎉 Merged PR [#6](https://github.com/sabiqazhar/tailtime.nvim/pull/6) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
-3. 💪 Opened PR [#6](https://github.com/sabiqazhar/tailtime.nvim/pull/6) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
+1. 🎉 Merged PR [#7](https://github.com/sabiqazhar/tailtime.nvim/pull/7) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
+2. 💪 Opened PR [#7](https://github.com/sabiqazhar/tailtime.nvim/pull/7) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
+3. ℹ️ Assigned PR [#7](https://github.com/sabiqazhar/tailtime.nvim/pull/7) in [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim)
 <!--END_SECTION:activity-->
 
 ---
