@@ -10,9 +10,9 @@ I'm a **Software Engineer** specializing in robust and scalable systems. I have 
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/sabiqazhar/etl-pipeline-go/pull/6) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
-2. 💪 Opened PR [#6](https://github.com/sabiqazhar/etl-pipeline-go/pull/6) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
-3. 🎉 Merged PR [#5](https://github.com/sabiqazhar/etl-pipeline-go/pull/5) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
+1. 🎉 Merged PR [#7](https://github.com/sabiqazhar/etl-pipeline-go/pull/7) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
+2. 💪 Opened PR [#7](https://github.com/sabiqazhar/etl-pipeline-go/pull/7) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
+3. 🎉 Merged PR [#6](https://github.com/sabiqazhar/etl-pipeline-go/pull/6) in [sabiqazhar/etl-pipeline-go](https://github.com/sabiqazhar/etl-pipeline-go)
 <!--END_SECTION:activity-->
 
 ---
